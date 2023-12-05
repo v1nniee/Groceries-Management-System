@@ -1,0 +1,26 @@
+
+Name:Milk
+Price:RM6.20
+Expired Date:21/11/2022
+Details:Farm Fresh Full Cream Milk.
+----------------------------------
+Name:Yoghurt
+Price:RM12.10
+Expired Date:30/11/2022
+Details:400g. Strawberry Flavour.
+----------------------------------
+Name:Soy milk
+Price:RM7.10
+Expired Date:12/12/2022
+Details:1L. Vsoy Milk, full of nutrient.
+----------------------------------
+Name:Cheese
+Price:RM12.40
+Expired Date:23/12/2022
+Details:300g. Anchor cheese. Full of protein.
+----------------------------------
+Name:Butter
+Price:RM6.90
+Expired Date:30/12/2022
+Details:300g. Salted butter.
+----------------------------------

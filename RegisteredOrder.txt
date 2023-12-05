@@ -1,0 +1,18 @@
+Username: Miki
+Grocery Name: Cheese
+Price Per Quantity: RM12.40
+Quantity: 2
+Total Price: RM24.80
+----------------------------------
+Username: Vincent12
+Grocery Name: Beansprouts
+Price Per Quantity: RM3.20
+Quantity: 2
+Total Price: RM6.40
+----------------------------------
+Username: jess02
+Grocery Name: Strawberry
+Price Per Quantity: RM22.10
+Quantity: 2
+Total Price: RM44.20
+----------------------------------

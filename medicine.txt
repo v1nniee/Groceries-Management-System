@@ -1,0 +1,31 @@
+
+Name:Cough syrup
+Price:RM23.20
+Expired Date:30/10/2022
+Details:Pei Pa Koa Herbal Cough Syrup,It gets rid of phlegm, soothes sore throats, and calms coughs.
+----------------------------------
+Name:Panadol extra strength
+Price:RM15.30
+Expired Date:10/10/2024
+Details:Effective for headaches, muscular discomfort, joint pain from osteoarthritis, fever, and inflammation.
+----------------------------------
+Name:Panadol woman
+Price:RM16.20
+Expired Date:10/12/2024
+Details:Effective for headaches, muscular discomfort, and menstrual pain.
+----------------------------------
+Name:Panadol day non drowsy
+Price:RM16.10
+Expired Date:25/12/2023
+Details:Effective for relieving typical cold and flu symptoms such as fever, headaches, and nasal congestion.
+----------------------------------
+Name:Hurix sto-mach
+Price:RM80.20
+Expired Date:24/12/2024
+Details:Have 8 tablets.Relieve stomach pain.
+----------------------------------
+Name:Active fast
+Price:RM5.00
+Expired Date:12/12/2002
+Details:abc
+----------------------------------

@@ -1,0 +1,25 @@
+Name:Liquid detergent
+Price:RM29.10
+Expired Date:25/12/2024
+Details:Dynamo liquid detergent. Perfect Clean.
+----------------------------------
+Name:Toothpaste
+Price:RM14.20
+Expired Date:24/12/2024
+Details:Colgate toothpaste. Maximum Cavity Protection.
+----------------------------------
+Name:Shampoo
+Price:RM15.00
+Expired Date:21/12/2024
+Details:Pantene shampoo. Anti hair fall. 800ml.
+----------------------------------
+Name:Conditioner
+Price:RM20.00
+Expired Date:21/12/2024
+Details:Pantene conditioner. Keratin effect. 600ml.
+----------------------------------
+Name:Dish detergent
+Price:RM20.10
+Expired Date:12/12/2024
+Details:500ml. Remove stain easily.
+----------------------------------

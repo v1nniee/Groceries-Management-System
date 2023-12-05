@@ -1,0 +1,30 @@
+Name:Banana
+Price:RM6.90
+Expired Date:13/11/2022
+Details:200g, it is from Cameron Highland.
+----------------------------------
+Name:Watermelon
+Price:RM9.90
+Expired Date:14/11/2022
+Details:1kg, from Cameron Highland.
+----------------------------------
+Name:Orange
+Price:RM11.00
+Expired Date:20/11/2022
+Details:4 pcs.Sweet and juicy!
+----------------------------------
+Name:Lemon
+Price:RM12.20
+Expired Date:30/11/2022
+Details:6 pcs. Full of Vitamin C.
+----------------------------------
+Name:Strawberry
+Price:RM22.10
+Expired Date:24/11/2022
+Details:300g, from Cameron Highland.
+----------------------------------
+Name:Kiwi
+Price:RM12.50
+Expired Date:29/12/2024
+Details: richest sources of Vitamin C, Vitamin K, and Vitamin A 
+----------------------------------

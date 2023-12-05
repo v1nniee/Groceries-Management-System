@@ -1,0 +1,31 @@
+
+Name:Cabbage
+Price:RM2.95
+Expired Date:2/11/2022
+Details:400g. Beijing Cabbage.
+----------------------------------
+Name:Potato
+Price:RM2.85
+Expired Date:2/11/2022
+Details:890g. Pakistan Potatoes.
+----------------------------------
+Name:Carrot
+Price:RM5.20
+Expired Date:1/11/2022
+Details:700g. Asutralian carrots.
+----------------------------------
+Name:Beansprouts
+Price:RM3.30
+Expired Date:4/11/2022
+Details:320g.
+----------------------------------
+Name:French beans
+Price:RM6.10
+Expired Date:2/11/2022
+Details:310g.
+----------------------------------
+Name:Radish
+Price:RM5.10
+Expired Date:21/12/2022
+Details:White colour, tasty
+----------------------------------

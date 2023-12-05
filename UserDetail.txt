@@ -1,0 +1,6 @@
+Username | Name| Address | Gmail | Phone Number | Gender | Birthday 
+-------------------------------------------------------------------------------------------------------------
+Miki | Miki | 12, Taman Setia, 32000, Sitiawan, Perak. | miki12@gmail.com | 189123776 | Female | 22/9/2002
+Vincent12 | Vincent | 290, Taman Sri Endah, 57000, Kuala Lumpur. | vincenttan@gmail.com | 122323234 | Male | 1/2/2001
+jess02 | Jess | 281, Taman Hijau 1, 32000, Sitiawan, Perak. | jess02@gmail.com | 121209098 | Female | 10/7/2002
+vinnie01 | Vinnie | D-15-01, Endah Promenade, Jalan 3/149e, 57000, Kuala Lumpur. | vinnie0701@gmail.com | 1118851755 | Female | 1/7/2003
